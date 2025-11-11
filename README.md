@@ -1,6 +1,11 @@
+<div align="center">
+
 # 👋 Hello, my name is Alex
 
 ![Banner](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Welcome%20to%20my%20Git&descAlign=60&animation=twinkling)
+
+</div>
+
 
 # 👨‍💻 About Me
 
