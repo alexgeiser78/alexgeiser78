@@ -34,13 +34,14 @@ I’m now continuing to study and stay up to date with various programming langu
 ## 🚀 Featured Projects
 
 | Project | Description | Techs |
-|----------|--------------|-------|
-| [Personal Portfolio](#) | A personal website showcasing my work and skills | HTML, CSS, PHP, JS |
-| [Mini DBMS in C](#) | Implementation of a simple database management system | C, SQL |
-| [Console Game in C++](#) | A small text-based C++ game with a score system | C++ |
-| [Simple PHP API](#) | REST API for managing data with MySQL | PHP, SQL |
+|---------|-------------|-------|
+| [Portfolio](https://github.com/alexgeiser78/portfolio) | Personal website showcasing projects and skills | HTML, CSS, PHP, JS |
+| [Mini DBMS](https://github.com/alexgeiser78/mini-dbms) | Simple database management system in C | C, SQL |
+| [Console Game](https://github.com/alexgeiser78/console-game) | Text-based game with scoring system | C++ |
+| [PHP REST API](https://github.com/alexgeiser78/php-api) | API to manage MySQL data | PHP, SQL |
+| [Weather App](https://github.com/alexgeiser78/weather-app) | Web app fetching weather data via API | JS, Node.js |
+| [Blog CMS](https://github.com/alexgeiser78/blog-cms) | Small content management system | PHP, SQL |
 
-> 💡 Replace the `#` with real GitHub links when your projects are published.
 
 ---
 
