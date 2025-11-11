@@ -35,12 +35,13 @@ I’m now continuing to study and stay up to date with various programming langu
 
 | Project | Description | Techs |
 |---------|-------------|-------|
-| [Portfolio](https://github.com/alexgeiser78/portfolio) | Personal website showcasing projects and skills | HTML, CSS, PHP, JS |
+| [42-transcendance](https://github.com/alexgeiser78/42-transcendance) | Pong-inspired game focusing on client-server communication | JS, node.js, Sockets |
 | [Mini DBMS](https://github.com/alexgeiser78/mini-dbms) | Simple database management system in C | C, SQL |
 | [Console Game](https://github.com/alexgeiser78/console-game) | Text-based game with scoring system | C++ |
 | [PHP REST API](https://github.com/alexgeiser78/php-api) | API to manage MySQL data | PHP, SQL |
 | [Weather App](https://github.com/alexgeiser78/weather-app) | Web app fetching weather data via API | JS, Node.js |
 | [Blog CMS](https://github.com/alexgeiser78/blog-cms) | Small content management system | PHP, SQL |
+
 
 
 ---
