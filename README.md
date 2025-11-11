@@ -17,6 +17,7 @@ I’m now continuing to study and stay up to date with various programming langu
 - 💡 **Core technologies:** C, C++, JavaScript, PHP, SQL, HTML, CSS, Linux, and Wordpress  
 - 🧠 **Areas of interest:** Web development, low-level programming, and database management 
 - 🌱 **Currently learning:** The fundamentals of Python and modern JavaScript frameworks  
+- 🌐 **Website:** [pleiad-es.online](https://pleiad-es.online/index.html)  
 - 📫 **Contact:** [alexgeiser78@gmail.com](mailto:alexgeiser78@gmail.com)
 
 ---
