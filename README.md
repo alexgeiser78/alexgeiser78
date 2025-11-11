@@ -14,11 +14,10 @@ I recently graduated from **42 Barcelona School**, where I developed strong skil
 I’m now continuing to study and stay up to date with various programming languages and modern development practices.  
 
 
-- 💡 Main languages: **C, C++, JavaScript, PHP, SQL**  
-- 🧠 Interested in: **Web development, low-level programming, and software design**  
-- 🌱 Currently improving my skills in **modern JavaScript** and **SQL databases**  
-- ⚙️ I like to experiment with small projects to keep learning and growing  
-- 📫 Reach me at: [alexgeiser78@gmail.com](mailto:alexgeiser78@gmail.com)
+- 💡 **Core technologies:** C, C++, JavaScript, PHP, SQL, HTML, CSS, Linux, and Wordpress  
+- 🧠 **Areas of interest:** Web development, low-level programming, and database management 
+- 🌱 **Currently learning:** The fundamentals of Python and modern JavaScript frameworks  
+- 📫 **Contact:** [alexgeiser78@gmail.com](mailto:alexgeiser78@gmail.com)
 
 ---
 
