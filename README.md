@@ -25,10 +25,9 @@ I’m now continuing to study and stay up to date with various programming langu
 
 | Category | Skills |
 |-----------|---------|
-| 💬 **Languages** | C · C++ · JavaScript · PHP · SQL |
-| 🌐 **Web** | HTML · CSS · PHP · MySQL |
-| ⚙️ **Tools & Environments** | Git · VSCode · Linux · XAMPP |
-| 🧩 **Concepts** | Data structures · Object-oriented programming · Code optimization |
+| 💬 **Languages** | C · C++ · JavaScript · PHP · SQL · Python (learning) |
+| 🌐 **Web & Backend** | HTML · CSS · PHP · MySQL · Node.js |
+| ⚙️ **Tools & Environments** | Git · VSCode · Linux · Docker |
 
 ---
 
