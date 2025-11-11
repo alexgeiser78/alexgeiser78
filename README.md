@@ -38,7 +38,6 @@ I’m now continuing to study and stay up to date with various programming langu
 | [42-transcendance](https://github.com/alexgeiser78/42-transcendance) | Pong-inspired game focusing on client-server communication | JS, node.js, Sockets, 2FA, Docker |
 | [42-ft-linux](https://github.com/alexgeiser78/42-ft-linux) | Linux From Scratch| Bash |
 | [42-ft-irc](https://github.com/alexgeiser78/42-ft-irc) | IRC server and client to practice multi-client networking and real-time communication | C++, Sockets |
-| C++ |
 | [CPP](https://github.com/alexgeiser78/CPP) | C++ exercices | C++ |
 
 
