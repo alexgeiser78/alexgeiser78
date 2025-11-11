@@ -48,15 +48,15 @@ I’m now continuing to study and stay up to date with various programming langu
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgeiser78&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgeiser78&layout=compact&theme=tokyonight)
-![GitHub commits](https://img.shields.io/github/commit-activity/y/alexgeiser78)
+
 
 ---
 
 ## 🌐 Find Me Elsewhere
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-geiser-63b95362)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexgeiser78@gmail.com)
-![GitHub commits](https://img.shields.io/github/commit-activity/y/alexgeiser78)
+
 
 
 
