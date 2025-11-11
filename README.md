@@ -36,12 +36,10 @@ I’m now continuing to study and stay up to date with various programming langu
 | Project | Description | Techs |
 |---------|-------------|-------|
 | [42-transcendance](https://github.com/alexgeiser78/42-transcendance) | Pong-inspired game focusing on client-server communication | JS, node.js, Sockets, 2FA, Docker |
-| [42-ft-linux](https://github.com/alexgeiser78/42-ft-linux) | SLinux From Scratch| Bash |
-| [Console Game](https://github.com/alexgeiser78/console-game) | Text-based game with scoring system | C++ |
-| [PHP REST API](https://github.com/alexgeiser78/php-api) | API to manage MySQL data | PHP, SQL |
-| [Weather App](https://github.com/alexgeiser78/weather-app) | Web app fetching weather data via API | JS, Node.js |
-| [Blog CMS](https://github.com/alexgeiser78/blog-cms) | Small content management system | PHP, SQL |
-
+| [42-ft-linux](https://github.com/alexgeiser78/42-ft-linux) | Linux From Scratch| Bash |
+| [42-ft-irc](https://github.com/alexgeiser78/42-ft-irc) | IRC server and client to practice multi-client networking and real-time communication | C++, Sockets |
+| C++ |
+| [CPP](https://github.com/alexgeiser78/CPP) | C++ exercices | C++ |
 
 
 ---
