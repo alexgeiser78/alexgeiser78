@@ -48,6 +48,7 @@ I’m now continuing to study and stay up to date with various programming langu
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgeiser78&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgeiser78&layout=compact&theme=tokyonight)
+![GitHub commits](https://img.shields.io/github/commit-activity/y/alexgeiser78)
 
 ---
 
