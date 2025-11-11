@@ -58,6 +58,3 @@ I’m now continuing to study and stay up to date with various programming langu
 
 ---
 
-> _“Learning to code is learning to think differently.”_ 🧩
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer)
