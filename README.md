@@ -9,8 +9,10 @@
 
 # 👨‍💻 About Me
 
-I'm **Alex Geiser**, a passionate developer who loves learning new technologies and building things from scratch.  
-I enjoy exploring how systems work under the hood and writing clean, efficient, and maintainable code.
+I'm a passionate developer who loves learning new technologies and building things from scratch.  
+I recently graduated from **42 Barcelona School**, where I developed strong skills in low-level programming, problem-solving, and teamwork.  
+I’m now continuing to study and stay up to date with various programming languages and modern development practices.  
+
 
 - 💡 Main languages: **C, C++, JavaScript, PHP, SQL**  
 - 🧠 Interested in: **Web development, low-level programming, and software design**  
