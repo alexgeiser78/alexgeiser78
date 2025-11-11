@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Alex
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=👋%20Hi!%20I'm%20Alex%20Geiser&fontColor=ffffff&fontSize=30&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Welcome%20to%20my%20Git&descAlign=60&animation=twinkling)
 
 # 👨‍💻 About Me
 
