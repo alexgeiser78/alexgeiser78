@@ -46,9 +46,8 @@ I’m now continuing to study and stay up to date with various programming langu
 
 ## 📊 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.zcy.dev/api?username=alexgeiser78&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=alexgeiser78&layout=compact&theme=tokyonight)
+![Alex's GitHub stats](https://gitmystat.vercel.app/api?username=alexgeiser78&show_icons=true&theme=tokyonight)
+![Top Langs](https://gitmystat.vercel.app/api/top-langs/?username=alexgeiser78&layout=compact&theme=tokyonight)
 
 
 
